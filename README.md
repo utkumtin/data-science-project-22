@@ -25,6 +25,5 @@ sırasıyla kendi local veritabanınızda çalıştırınız.
 
 # Questions
 * Senaryo:
-    Büyücüler, büyülerin başarı oranlarını karşılaştırmak için istatistiksel testler kullanıyorlar.
-    Görev, aşağıdaki fonksiyonları doğru şekilde yazmak.
+    Withcer kahramanları üzerine özellik mühendisliği
 * task_manager.py dosyasının içerisindeki fonksiyonların içerisini doldurmaya çalışın
